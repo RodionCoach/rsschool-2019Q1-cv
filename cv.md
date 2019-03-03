@@ -1,12 +1,12 @@
 # CV
 ## 1.  Name: 
-      Rodion Kochetkov
-***
+      Rodion Kochetkov  
+---
 ## 2.  Contacts: 
    >**e-mail**: <www.radik@yandex.by>  
    **mobile**: +375298242916  
-   **linkedin**: <https://www.linkedin.com/in/r-kochetkov>
-***
+   **linkedin**: <https://www.linkedin.com/in/r-kochetkov>  
+---
 ## 3.  Summary: 
       During 4 years of work at enterprises, I gained experience in various areas of engineering:
       electronic and circuit engineering, automation of technological processes and production,
@@ -14,8 +14,8 @@
       web development. Have a strong will to improve skills in web-programming on the
       cutting edge technological practices. To do this, I constantly develop programming 
       skills and the corresponding thinking in the field of high technologies.
-      I like to strive for something more than I have now. Don't stop there!
-***
+      I like to strive for something more than I have now. Don't stop there!  
+---
 ## 4. Skills: 
 -   **Software engineering**: C, C++(Basic), C#(Basic), Python (Basic), Web-Development, Design
       Patterns.
@@ -25,10 +25,10 @@
     
 -   **Advantages**: Responsible, have technical way of thinking, sociable, hardworking, have high
       degree of self- discipline, focus on achieving results.
-***
+---
 ## 5. Examples:
   <https://bitbucket.org/radi_coach/fireflow_project/branch/Rodion_Kochetkov>
-***
+---
 ## 6. Employment:
 -    **Aug 2017 – Present**: «AGAT-Control Systems»: Software Engineer
       > During the period of work at the company, I studied and practically mastered the adjacent direction in engineering and information technologies, namely: microcontrollers, microprocessor technology and its programming with the help of self-written firmware for a specific device. Developed a software module for detecting the moment of accident of a motor vehicle device, using “Git” version control. I actively participate in the social and cultural life of the company.
@@ -38,7 +38,7 @@
 
 -    **Aug 2015 – Nov 2015**: «Just Apple»: Technician.
       > During the time at the firm, I gained experience in working with digital technology and microelectronics of Apple devices, gained skills in working with Apple software. Independently diagnosed and repaired many Apple devices.
-***
+---
 ## 7. Education:
     
 -    **2012 - 2017**: 
@@ -63,7 +63,7 @@
 
 -    **2017 – 2019**
       Studying at the Belarusian National Technical University, International Institute of Distance Education. Master of    Technology.
-***
+---
 ## 8. Languages: 
 *    Russian (native),
 *    English (A1 - tutoring class), 
