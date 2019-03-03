@@ -1,6 +1,7 @@
 # CV
 ## 1.  Name: 
-      Rodion Kochetkov  
+      Rodion Kochetkov
+      
 ---
 ## 2.  Contacts: 
    >**e-mail**: <www.radik@yandex.by>  
