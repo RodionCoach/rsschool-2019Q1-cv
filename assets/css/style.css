@@ -1,0 +1,29 @@
+body{
+    text-align: justify;
+}
+img{
+   float: right;
+}
+
+hr{
+    color: rgb(85, 85, 85);
+    background-color:#555;
+    border:1px solid;
+    height:1px;
+    clear:both;
+}
+
+.container{
+    position: relative;
+    width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#summary3 + blockquote{
+    text-indent: 1.5em;
+}
+
+li > blockquote {
+    text-indent: 1.5em;
+}
