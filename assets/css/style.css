@@ -1,13 +1,18 @@
 body{
     text-align: justify;
+    background: url(https://cdn.oboi7.com/9f3c63a73eea7d71d45c73870b715c66c61022d4/minimalistichnyj-belyj-prostoj-fon.jpg) repeat-x;
+    background-size: contain;
 }
 img{
-   float: right;
+    float: right;
+    margin-top: -10px;
+    margin-bottom: 20px;
+    margin-right: 10%;
 }
 
 hr{
-    color: rgb(85, 85, 85);
-    background-color:#555;
+    color: #ccc;
+    background-color:#ccc;
     border:1px solid;
     height:1px;
     clear:both;
@@ -26,4 +31,12 @@ hr{
 
 li > blockquote {
     text-indent: 1.5em;
+}
+
+.column{
+    column-width: 250px;
+    column-count: 3;
+    column-gap: 30px;
+    column-rule: 1px solid #ccc;
+    margin-bottom: 20px;
 }
